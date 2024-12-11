@@ -1,0 +1,4 @@
+requests
+tenacity
+seaborn
+scikit-learn
